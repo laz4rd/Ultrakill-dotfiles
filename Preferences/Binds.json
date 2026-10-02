@@ -1,0 +1,17 @@
+{
+  "controlScheme": "Keyboard & Mouse",
+  "modifiedActions": {
+    "Punch": [],
+    "Change Fist": [],
+    "Punch (Feedbacker)": [
+      {
+        "path": "<Keyboard>/f"
+      }
+    ],
+    "Punch (Knuckleblaster)": [
+      {
+        "path": "<Keyboard>/g"
+      }
+    ]
+  }
+}
